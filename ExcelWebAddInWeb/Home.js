@@ -39,7 +39,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
     var messageBanner;
     // runs everytime when the page is loaded
     Office.initialize = function (reason) {
-        window.Promise = OfficeExtension.Promise; // https://stackoverflow.com/questions/44461312/office-addins-file-in-its-typescript-version-doesnt-work
+        window.Promise = OfficeExtension.Promise;
         $(document).ready(function () {
             // Initialize the FabricUI notification mechanism and hide it
             var element = document.querySelector('.ms-MessageBanner');

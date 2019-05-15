@@ -115,7 +115,7 @@
     <Content Include="Content\sass\Fabric.Animations.RTL.Output.scss" />
     <Content Include="Content\sass\Fabric.Animations.Output.scss" />
     <None Include="packages.config" />
-    <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
+    <None Include="Properties\PublishProfiles\localhost IIS.pubxml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <None Include="Scripts\embedded\1.0\visio-web-embedded.debug-vsdoc.js" />
     <Content Include="Scripts\embedded\1.0\visio-web-embedded.debug.js" />
